@@ -12,7 +12,7 @@ mnist 연습 문제 수행
 
 수행 결과는 2022317007_Leesookwang_mnist 프로젝트에 저장
 
-링크 : 
+링크 : [MNIST Link](https://wandb.ai/sookwang/2022317007_Leesookwang_mnist?workspace=user-2sookwang)
 
 # CIFAR10
 
@@ -20,4 +20,4 @@ cifar10 딥러닝 수행
 
 수행 결과는 2022317007_Leesookwang_cifar10 프로젝트에 저장
 
-링크 :[cifar10 Link](https://wandb.ai/sookwang/2022317007_Leesookwang_cifar10?workspace=user-2sookwang)
+링크 :[CIFAR10 Link](https://wandb.ai/sookwang/2022317007_Leesookwang_cifar10?workspace=user-2sookwang)
