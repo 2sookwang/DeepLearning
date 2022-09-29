@@ -43,7 +43,6 @@ class LitCIFAR10(LightningModule):
 
         batch_size, channels, width, height = x.size()
 
-        # (b, 1, 32, 32) -> (b, 1*32*32)
         x = F.relu(self.conv1(x))
         x = F.max_pool2d(x, 2, 2)
         x = F.relu(self.conv2(x))
