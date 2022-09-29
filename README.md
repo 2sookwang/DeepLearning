@@ -11,6 +11,7 @@ pytorch lightning 툴과 Cifar10 dataset을 이용하여 학습(model 자유).
 mnist 연습 문제 수행
 
 수행 결과는 2022317007_Leesookwang_mnist 프로젝트에 저장
+
 링크 : 
 
 # CIFAR10
@@ -18,4 +19,5 @@ mnist 연습 문제 수행
 cifar10 딥러닝 수행
 
 수행 결과는 2022317007_Leesookwang_cifar10 프로젝트에 저장
+
 링크 :[cifar10 Link](https://wandb.ai/sookwang/2022317007_Leesookwang_cifar10?workspace=user-2sookwang)
